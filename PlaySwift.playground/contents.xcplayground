@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='L1'/>
+        <page name='L2'/>
+        <page name='L3'/>
+        <page name='L4'/>
+        <page name='L5'/>
+        <page name='L6'/>
+        <page name='L7'/>
+        <page name='L8'/>
+        <page name='L9'/>
+        <page name='L10'/>
+        <page name='L11'/>
+    </pages>
 </playground>
